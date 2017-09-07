@@ -1,0 +1,35 @@
+"*":
+  "atom-terminal-panel":
+    enableConsoleInteractiveHints: false
+    enableConsoleInteractiveLinks: false
+    enableConsoleLabels: false
+    enableConsoleStartupInfo: false
+    enableConsoleSuggestionsDropdown: false
+    enableExtendedCommands: false
+    enableUserCommands: false
+    enableWindowAnimations: false
+    moveToCurrentDirOnOpenLS: true
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "terminal-plus"
+      "atom-terminal"
+      "atom-terminal-panel"
+    ]
+    telemetryConsent: "no"
+  editor:
+    autoIndent: false
+    fontSize: 12
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "13ce2ad7-343a-4aa9-ac24-7c6361be0cf5"
+  "file-types":
+    sl: "source.c"
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  welcome:
+    showOnStartup: false
